@@ -1,10 +1,32 @@
+html, body {
+  margin: 0;
+}
+
+.container {
+  padding-top: 30px;
+  margin: auto;
+  max-width: 980px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .circle-container {
   position: relative;
   width: 200px;
-  height: 400px;
+  height: 350px;
 }
 .circle-title {
   position: absolute;
-  left: 50%;
-  transform: translate(-50%, 0);
+  top: 128px;
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.circle-title p {
+  margin: 0;
+  line-height: 1.5;
+  font-weight: bolder;
+  font-size: 20px;
 }

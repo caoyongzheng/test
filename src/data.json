@@ -1,17 +1,70 @@
-[
-  {
-    "type": "Rzone",
-    "status": "禁用",
-    "number": 18
-  },
-  {
-    "type": "Rzone",
-    "status": "限制",
-    "number": 1
-  },
-  {
-    "type": "Rzone",
-    "status": "正常",
-    "number": 71
-  }
-]
+{
+    "Rzone": [
+      {
+        "type": "Rzone",
+        "status": "禁用",
+        "number": 18
+      },
+      {
+        "type": "Rzone",
+        "status": "限制",
+        "number": 1
+      },
+      {
+        "type": "Rzone",
+        "status": "正常",
+        "number": 71
+      }
+  ],
+    "Gzone": [
+        {
+          "type": "Rzone",
+          "status": "禁用",
+          "number": 95
+        },
+        {
+          "type": "Rzone",
+          "status": "限制",
+          "number": 0
+        },
+        {
+          "type": "Rzone",
+          "status": "正常",
+          "number": 187
+        }
+    ],
+    "Czone": [
+      {
+        "type": "Rzone",
+        "status": "禁用",
+        "number": 2
+      },
+      {
+        "type": "Rzone",
+        "status": "限制",
+        "number": 0
+      },
+      {
+        "type": "Rzone",
+        "status": "正常",
+        "number": 8
+      }
+    ],
+    "Other": [
+      {
+        "type": "Rzone",
+        "status": "禁用",
+        "number": 6
+      },
+      {
+        "type": "Rzone",
+        "status": "限制",
+        "number": 1
+      },
+      {
+        "type": "Rzone",
+        "status": "正常",
+        "number": 19
+      }
+    ]
+}

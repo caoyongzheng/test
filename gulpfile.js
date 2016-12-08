@@ -5,7 +5,7 @@ const path = require('path')
 const webpack = require('webpack')
 const WebpackDevServer = require('webpack-dev-server')
 const open = require("open")
-
+const HtmlWebpackPlugin = require('html-webpack-plugin')
 const webpackConfig = require('./webpack.config.js')
 
 gulp.task('clean:assets', function (cb) {

@@ -2,7 +2,7 @@ const webpack = require('webpack')
 const path = require('path')
 const production = process.env.NODE_ENV === 'production'
 
-const publicPath = '/assets/'
+const publicPath = production ? '/test/assets/' : '/assets/'
 
 const config = {
   entry: {
