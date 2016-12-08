@@ -1,0 +1,10 @@
+.circle-container {
+  position: relative;
+  width: 200px;
+  height: 400px;
+}
+.circle-title {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}

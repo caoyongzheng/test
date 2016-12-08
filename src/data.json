@@ -1,0 +1,17 @@
+[
+  {
+    "type": "Rzone",
+    "status": "禁用",
+    "number": 18
+  },
+  {
+    "type": "Rzone",
+    "status": "限制",
+    "number": 1
+  },
+  {
+    "type": "Rzone",
+    "status": "正常",
+    "number": 71
+  }
+]
