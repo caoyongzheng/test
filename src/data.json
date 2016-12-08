@@ -18,51 +18,51 @@
   ],
     "Gzone": [
         {
-          "type": "Rzone",
+          "type": "Gzone",
           "status": "禁用",
           "number": 95
         },
         {
-          "type": "Rzone",
+          "type": "Gzone",
           "status": "限制",
           "number": 0
         },
         {
-          "type": "Rzone",
+          "type": "Gzone",
           "status": "正常",
           "number": 187
         }
     ],
     "Czone": [
       {
-        "type": "Rzone",
+        "type": "Czone",
         "status": "禁用",
         "number": 2
       },
       {
-        "type": "Rzone",
+        "type": "Czone",
         "status": "限制",
         "number": 0
       },
       {
-        "type": "Rzone",
+        "type": "Czone",
         "status": "正常",
         "number": 8
       }
     ],
     "Other": [
       {
-        "type": "Rzone",
+        "type": "Other",
         "status": "禁用",
         "number": 6
       },
       {
-        "type": "Rzone",
+        "type": "Other",
         "status": "限制",
         "number": 1
       },
       {
-        "type": "Rzone",
+        "type": "Other",
         "status": "正常",
         "number": 19
       }
